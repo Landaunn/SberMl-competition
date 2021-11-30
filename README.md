@@ -1,3 +1,2 @@
 # SberMl-competition
-
-##Churn customer prediction
+## Churn customer prediction
