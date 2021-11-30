@@ -1,4 +1,4 @@
 # SberMl-competition
 ## Churn customer prediction
 
-![image info](https://designnews.ru/upload/information_system_35/1/4/9/item_1491/sber-designnews-ru.jpg =100*20)
+![image info](https://cdn.rns.online/imgs/2020/09/24/07/468969/36f3bf936dab21536c9dfc301edccd3107ee3f52.jpg)
